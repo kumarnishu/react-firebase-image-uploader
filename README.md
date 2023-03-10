@@ -7,5 +7,5 @@ REACT_APP_STORAGE_BUCKET=****************************
 REACT_APP_MSGSENDERID=****************
 REACT_APP_APPID=****************
 
-https://stirring-medovik-e47d65.netlify.app/
+https://roaring-sundae-2f86c4.netlify.app/
 
